@@ -289,6 +289,11 @@ span {
     transform: translateY(0);
 }
 
+.portfolio-box .restaurant {
+    width: 100%;
+    height: 100%;
+}
+
 .portfolio-layer h4 {
     font-size: 3rem;
 }
